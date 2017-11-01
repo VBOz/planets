@@ -10,3 +10,5 @@ It has
 And the wind is *frightful*.
 
 no [software carpentry] (http://software-carpentry.org) !
+
+and it is *very* hot
